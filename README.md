@@ -4,5 +4,9 @@
 ## React app utilizing an API
 
 
-### I'll add more info when complete
+### Learn how to make components work with each other
+- App component
+--SearchBar
+--ImageList
+--ImageShow
 
