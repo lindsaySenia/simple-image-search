@@ -3,9 +3,10 @@ import searchImages from './api';
 
 function App() {
 
-    const handleSubmit = (term) => {
-        // console.log('Do a search with', term);
-        searchImages(term);
+    const handleSubmit = async (term) => {
+        const result = await searchImages(term);
+
+        console.log(result);
     }
 
     return <div>
