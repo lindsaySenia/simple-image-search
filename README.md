@@ -1,12 +1,11 @@
 # Simple Image Search App
 
 
-## React app utilizing an API
+## React app utilizing Unsplash API
 
 
 ### Learn how to make components work with each other
-- App component
---SearchBar
---ImageList
---ImageShow
+- Parent to Child relationship
+
+### Handle controlled input
 
